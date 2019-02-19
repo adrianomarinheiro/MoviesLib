@@ -6,6 +6,7 @@
 //  Copyright © 2019 Adriano Marinheiro. All rights reserved.
 //
 
+/*
 import Foundation
 
 struct Movie: Codable {
@@ -16,3 +17,4 @@ struct Movie: Codable {
     let summary: String
     let image: String
 }
+*/
